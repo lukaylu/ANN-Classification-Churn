@@ -1,0 +1,10 @@
+tensorflow==2.9.0
+pandas==1.4.3
+numpy==1.22.4
+scikit-learn==1.1.3
+tensorboard
+matplotlib
+streamlit==1.6.0
+ipykernel
+pyarrow===6.0.1
+click==7.1.2
